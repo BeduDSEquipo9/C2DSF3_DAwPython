@@ -1,8 +1,8 @@
 # C2DSF3_DAwPython
 
-# README
+# Readme.md
 
-# Analisis de datos con Python Santander 2023
+# Análisis de datos con Python Santander 2023
 
 Módulo 4
 
@@ -29,6 +29,6 @@ Equipo 9. Integrantes:
 
 ### Enlaces
 
-* [Colab Jupyter NoteBook:](https://colab.research.google.com/drive/xxx)
+* [Colab Jupyter NoteBook para Análisis de Datos:](https://colab.research.google.com/drive/xxx)
 
-* [Procesamiento de datos con Python](https://github.com/BeduDSEquipo9/G2DSF2_Python)
+* [Repositorio para el procesamiento de datos con Python](https://github.com/BeduDSEquipo9/G2DSF2_Python)
